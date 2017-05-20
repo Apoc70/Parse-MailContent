@@ -12,7 +12,7 @@
   .DESCRIPTION
 	
   This script fetches emails from a given monitoring mailbox by searching messages for a given subject string.
-  In this case email messages sent by the ENow Manage Suite (http://enowsoftware.com/)
+  In this case email messages sent by the ENow Management Suite (http://enowsoftware.com/)
   The mailbox is queried using Exchange Web Services (EWS). The EWS endpoint is identified by AutoDiscover.
 
   The script exports the following columns for further processing:
@@ -28,7 +28,7 @@
 
   .NOTES 
   Requirements 
-  - Windows Server 2012 R2  
+  - Windows Server 2012 R2+  
   - Exchange Server 2013+
   - Exchange Web Services Library
 

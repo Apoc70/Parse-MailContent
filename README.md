@@ -47,7 +47,7 @@ RISK OF THE USE OR THE RESULTS FROM THE USE OF THIS CODE REMAINS WITH THE USER.
 
 ## TechNet Gallery
 Find the script at TechNet Gallery
-* 
+* https://gallery.technet.microsoft.com/Parse-email-message-bfdef982
 
 
 ## Credits
