@@ -24,7 +24,7 @@
   VALUE = reported value 
 
   .LINK 
-  More information can be found at http://scripts.granikos.eu
+  http://scripts.granikos.eu
 
   .NOTES 
   Requirements 
